@@ -9,7 +9,7 @@
 🤝 I am always open to collaboration and learning from others. If you find any project interesting or have ideas for collaboration, feel free to reach out. Let's combine our skills to create something extraordinary.
 
 ## Connect With Me
-🌐 LinkedIn: https://www.linkedin.com/in/antonio-mario-pio-cardoso-soares-frioli-98643319 </br>
+🌐 LinkedIn: https://br.linkedin.com/in/antonio-mario-pio-cardoso-soares-frioli-98643319b </br>
 📧 Email: antonio.frioli1@gmail.com
 
 Thank you for visiting my GitHub! I look forward to connecting with fellow developers, researchers, and enthusiasts. Let's build the future together! 🚀
