@@ -1,17 +1,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonini877&langs_count=8)
 
+👋 Hello there! I'm Antonio Mario Pio, a passionate computer engineering student and machine learning enthusiast. My journey in the world of technology has been an exciting blend of cutting-edge machine learning and a deep appreciation for backend development and statistics. Welcome to my GitHub!
 
-<!--
-**Antonini877/antonini877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🚀 As a machine learning engineer, I thrive on building intelligent systems that harness the power of data to solve real-world problems. My academic background in computer engineering provides me with a strong foundation, while my love for backend development and statistics sets me apart in crafting end-to-end solutions.
 
-Here are some ideas to get you started:
+## Collaboration
+🤝 I am always open to collaboration and learning from others. If you find any project interesting or have ideas for collaboration, feel free to reach out. Let's combine our skills to create something extraordinary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+🌐 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/antonio-mario-pio-cardoso-soares-frioli-98643319b/)
+📧 Email: antonio.frioli1@gmail.com
+
+Thank you for visiting my GitHub! I look forward to connecting with fellow developers, researchers, and enthusiasts. Let's build the future together! 🚀
+
+
+
+
+
+
