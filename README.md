@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonini877&langs_count=8&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonini877&langs_count=8&hide=jupyter%20notebook)<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonini877&show_icons=true&theme=synthwave&custom_title=Antonio%20Frioli's%20GitHub%20stats)<br>
 
 👋 Hello there! I'm Antonio Mario Pio, a passionate computer engineering student and machine learning enthusiast. My journey in the world of technology has been an exciting blend of cutting-edge machine learning and a deep appreciation for backend development and statistics. Welcome to my GitHub!
 
