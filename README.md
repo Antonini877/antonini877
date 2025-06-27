@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonini877&langs_count=8&hide=jupyter%20notebook)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonini877&langs_count=8&hide=jupyter%20notebook,html)<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonini877&show_icons=true&theme=synthwave&custom_title=Antonio%20Frioli's%20GitHub%20stats)<br>
 
